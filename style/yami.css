@@ -177,7 +177,8 @@
                         overflow: hidden;
                         text-overflow: ellipsis;
                         -webkit-box-orient:vertical;
-                        max-width: 336px;  
+                        max-width: 336px; 
+                        width: 336px;
                     }
                     .fifth-div:hover{background-color: rgb(199, 240, 240);}     
                     .six-div{                                           
