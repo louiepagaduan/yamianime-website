@@ -1,0 +1,292 @@
+.title{
+                    font-family: Arial, helvetica, arial, sans-serif;
+                    font-size: 60px;
+                    text-align: center;
+                    font-weight: bolder;
+                    margin-top: 5px;
+                    background-color: orangered;                    
+                    color: white ;   
+                    padding: 25px;
+                    width: 1860px;                                             
+                    }
+                    .youtube-link{
+                    font-family: helvetica, arial, sans-serif;
+                    text-align: center;
+                    margin-top: -60px;
+                    background-color: rgba(66, 65, 61, 0.884);                      
+                    padding: 10px;      
+                    width: 1870px; 
+                    }                                  
+                    .Most-Anticipated{
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-weight: bold;
+                    margin-left: 40px;
+                    font-size: 25px;
+                    margin-top: 80px;
+                    }
+                    .first-div{
+                        display:inline-block;
+                        text-decoration: none;  
+                        width: 336px;  
+                        vertical-align: top;
+                                              
+                    }
+                    .first-div:hover{background-color: rgb(199, 240, 240);}
+                    .first-title{
+                        font-family: Arial, Helvetica, sans-serif;               
+                        color: black;    
+                        display: -webkit-box;
+                        -webkit-line-clamp: 2;   
+                        overflow: hidden;
+                        text-overflow: ellipsis;
+                        -webkit-box-orient:vertical;
+                    }
+                    .second-div{                                           
+                        display:inline-block;
+                        text-decoration: none;  
+                        width: 336px;
+                        vertical-align: top;
+                        position: relative;
+                        left: 12px;
+                    }
+                    .second-thumnail{
+                        object-fit: cover;                
+                        
+                    }
+                    .second-title{
+                        font-family: Arial, Helvetica, sans-serif;
+                        color: black;
+                        display: -webkit-box;
+                        -webkit-line-clamp: 2;
+                        overflow: hidden;
+                        text-overflow: ellipsis;
+                        -webkit-box-orient:vertical;
+                        max-width: 336px;  
+                    }
+                    .second-div:hover{background-color: rgb(199, 240, 240);}
+                    .third-div{                                           
+                        display:inline-block;
+                        text-decoration: none;  
+                        width: 336px; 
+                        vertical-align: top;
+                        position: relative;
+                        left: 24px;    
+                    }
+                    .third-thumnail{
+                        object-fit: cover;             
+                        width: 336px;   
+                    }
+                    .third-title{
+                        font-family: Arial, Helvetica, sans-serif;
+                        color: black;
+                        display: -webkit-box;
+                        -webkit-line-clamp: 2;
+                        overflow: hidden;
+                        text-overflow: ellipsis;
+                        -webkit-box-orient:vertical;
+                        max-width: 336px;  
+                    }
+                    .third-div:hover{background-color: rgb(199, 240, 240);}
+                    .fourth-div{                                           
+                        display:inline-block;
+                        text-decoration: none;
+                        width: 336px;
+                        vertical-align: top; 
+                        position: relative;
+                        left: 36px;    
+                    }
+                    .fourth-thumnail{
+                        object-fit: cover;  
+                        
+                    }
+                    .fourth-title{
+                        font-family: Arial, Helvetica, sans-serif;
+                        color: black;
+                        display: -webkit-box;
+                        -webkit-line-clamp: 2;
+                        overflow: hidden;
+                        text-overflow: ellipsis;
+                        -webkit-box-orient:vertical;
+                        max-width: 336px;  
+                    }
+                    .fourth-div:hover{background-color: rgb(199, 240, 240);} 
+                     .eight-div{                                           
+                        display:inline-block;
+                        text-decoration: none;  
+                        width: 336px; 
+                        position: relative;
+                        left: 36px;                        
+                    }
+                    .eight-thumnail{
+                        object-fit: cover;  
+                        
+                    }
+                    .eight-title{
+                        font-family: Arial, Helvetica, sans-serif;
+                        color: black;
+                        display: -webkit-box;
+                        -webkit-line-clamp: 2;
+                        overflow: hidden;
+                        text-overflow: ellipsis;
+                        -webkit-box-orient:vertical;
+                        max-width: 336px;  
+                    }
+                    .eight-div:hover{background-color: rgb(199, 240, 240);}                                        
+                    .first-rowline{
+                        display: inline-block;
+                        width: 1356px;
+                        vertical-align: top;
+                    }     
+                    .second-rowline{
+                        display: inline-block;
+                        width: 1356px;
+                        vertical-align: top;
+                        position: relative;
+                        bottom: 2635px;
+                    }                                      
+                    .first-row{
+                        width: 1913px;
+                        margin-left: 40px;
+                        
+                    }
+                    .Ais-div{
+                        width: 420px;
+                        display: inline-block;
+                        position: relative;
+                        left: 65px;
+                        bottom: 10px;
+                    }
+                    .Ais{
+                        height: 2892px;
+                        display: inline-block;
+                    }
+                    .fifth-div{                                           
+                        display:inline-block;
+                        text-decoration: none;
+                        width: 336px;                      
+                     }
+                    .fifth-thumnail{
+                        object-fit: cover;             
+                        
+                    }
+                    .fifth-title{
+                        font-family: Arial, Helvetica, sans-serif;
+                        color: black;
+                        display: -webkit-box;
+                        -webkit-line-clamp: 2;
+                        overflow: hidden;
+                        text-overflow: ellipsis;
+                        -webkit-box-orient:vertical;
+                        max-width: 336px;  
+                    }
+                    .fifth-div:hover{background-color: rgb(199, 240, 240);}     
+                    .six-div{                                           
+                        display:inline-block;
+                        text-decoration: none; 
+                        width: 336px; 
+                        position: relative;
+                        left: 12px; 
+                    }
+                    .six-thumnail{
+                        object-fit: cover;             
+                        
+                    }
+                    .six-title{
+                        font-family: Arial, Helvetica, sans-serif;
+                        color: black;
+                        display: -webkit-box;
+                        -webkit-line-clamp: 2;
+                        overflow: hidden;
+                        text-overflow: ellipsis;
+                        -webkit-box-orient:vertical;
+                        max-width: 336px;  
+                    }
+                    .six-div:hover{background-color: rgb(199, 240, 240);}                  
+                    .seven-div{                                           
+                        display:inline-block;
+                        text-decoration: none;  
+                        width: 336px; 
+                        position: relative;
+                        left: 24px;
+                    }
+                    .seven-thumnail{
+                        object-fit: cover;             
+                        
+                    }
+                    .seven-title{
+                        font-family: Arial, Helvetica, sans-serif;
+                        color: black;
+                        display: -webkit-box;
+                        -webkit-line-clamp: 2;
+                        overflow: hidden;
+                        text-overflow: ellipsis;
+                        -webkit-box-orient:vertical;
+                        max-width: 336px;  
+                    }
+                    .seven-div:hover{background-color: rgb(199, 240, 240);}
+                    .eight-div{                                           
+                        display:inline-block;
+                        text-decoration: none;
+                        width: 336px; 
+                        
+                    }
+                    .eight-thumnail{
+                        object-fit: cover;  
+                        
+                    }
+                    .eight-title{
+                        font-family: Arial, Helvetica, sans-serif;
+                        color: black;
+                        display: -webkit-box;
+                        -webkit-line-clamp: 2;
+                        overflow: hidden;
+                        text-overflow: ellipsis;
+                        -webkit-box-orient:vertical;
+                        max-width: 336px;  
+                    }
+                    .eight-div:hover{background-color: rgb(199, 240, 240);} 
+                    .top-ranking{
+                        font-family: Arial, Helvetica, sans-serif;
+                        font-weight: bold;
+                        font-size: 25px;
+                        margin-top: 80px;
+                        display: inline-block;
+                        vertical-align: top;
+                        width: 1100px;
+                    }
+                    .second-row{
+                        display: grid;
+                        grid-template-columns: 1fr 1fr 1fr 1fr;
+                        column-count: 4;
+                        column-gap: 20px;
+                        margin-left: 40px;
+                        row-gap: 20px;
+                        display: flex;
+                        flex-wrap: wrap;
+                        padding: 0 4px;
+                        grid-template-rows: 1fr 1fr;
+                        margin-right: 400px;
+                    }
+                    .Music-div{                                           
+                        display:inline-block;
+                        text-decoration: none; 
+                        margin-right: 400px;                                               
+                    }
+                    .Music-thumnail{
+                        object-fit: cover;  
+                        
+                    }
+                    .Music-title{
+                        font-family: Arial, Helvetica, sans-serif;
+                        color: black;
+                        display: -webkit-box;
+                        -webkit-line-clamp: 2;
+                        overflow: hidden;
+                        text-overflow: ellipsis;
+                        -webkit-box-orient:vertical;
+                        max-width: 336px; 
+                    }
+                     .Music-div:hover{background-color: rgb(199, 240, 240);} 
+                    
+                   
+                    
